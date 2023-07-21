@@ -1,0 +1,17 @@
+{
+  "name": "discordlevelbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mongodb": "^4.0.7",
+    "discord.js": "^14.11.0",
+    "mongodb": "^5.7.0"
+  }
+}
