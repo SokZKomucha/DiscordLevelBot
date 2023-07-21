@@ -87,3 +87,6 @@ async function check(message: discord.Message, args: Array<string>) {
 }
 
 export default { give, check };
+
+// You may ask, "Why Typescript?"
+// I wanted to make something useful with it lol
